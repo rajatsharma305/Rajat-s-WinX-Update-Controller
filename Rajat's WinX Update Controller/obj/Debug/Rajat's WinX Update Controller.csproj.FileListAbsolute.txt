@@ -1,0 +1,9 @@
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\bin\Debug\Rajat's WinX Update Controller.exe.config
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\bin\Debug\Rajat's WinX Update Controller.exe
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\bin\Debug\Rajat's WinX Update Controller.pdb
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat's WinX Update Controller.csprojResolveAssemblyReference.cache
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat_s_WinX_Update_Controller.Form1.resources
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat_s_WinX_Update_Controller.Properties.Resources.resources
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat's WinX Update Controller.csproj.GenerateResource.Cache
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat's WinX Update Controller.exe
+C:\Users\Rajat\Desktop\Windows Forms\Rajat's WinX Update Controller\Rajat's WinX Update Controller\obj\Debug\Rajat's WinX Update Controller.pdb
