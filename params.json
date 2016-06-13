@@ -1,0 +1,6 @@
+{
+  "name": "Winxupdatecontroller",
+  "tagline": "Restrict / Allow Windows 10 Updates",
+  "body": "### Winxupdatecontroller\r\nMade with C#, WinXUpdateController simply enables and disables the windows update service in Windows 10. The setting is not directly available in this verison of windows. \r\n\r\n### Support or Contact\r\nlunasunkaiser@gmail.com // [rajatsharma.rocks](https://rajatsharma.rocks) \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
